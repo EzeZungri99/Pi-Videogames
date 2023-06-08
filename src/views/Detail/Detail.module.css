@@ -1,0 +1,22 @@
+.container{
+    background-color: #3b3636;
+   border-radius: 120px;
+   height: 800px;
+   margin-left: 250px;
+    margin-right: 250px;
+   
+}
+
+.title{
+    color: rgb(25, 23, 23);
+}
+
+.description{
+    color: rgb(22, 22, 22);
+    justify-content: center;
+    box-sizing: border-box;
+    height: 1200px;
+    width: 1200px;
+    margin-left: 90px;
+    font-size: 18px;
+}

@@ -1,0 +1,34 @@
+.conteiner{
+
+
+    width: 300px; /* Ancho deseado */
+  height: 400px; /* Alto deseado */
+  border:4px solid black;
+  padding: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  background-color: rgba(16, 15, 15, 0.9);
+  transition: border-color 0.3s, transform 0.3s;
+}
+
+.conteiner:hover {
+  border-color: #00ff00;
+  transform: rotate(5deg);
+}
+
+.image{
+  width: 100%;
+  height: 50%;
+}
+
+/* 
+.card {
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+  transition: border-color 0.3s, transform 0.3s;
+} */
+
+.card:hover {
+  border-color: #00ff00;
+  transform: rotate(5deg);
+}

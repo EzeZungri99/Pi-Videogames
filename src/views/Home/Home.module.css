@@ -1,0 +1,17 @@
+.conteiner{
+    border:2px solid black;
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    gap: 10em;
+    background-color: rgba(255, 255, 255, 0.5);;
+
+
+}
+body {
+    /* background-image: url("https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/tech.batanga.com/files/Fondos-para-paginas-web.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+  }
